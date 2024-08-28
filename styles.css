@@ -1,8 +1,17 @@
 body {
-    color: purple;
+    color: white;
     background: black;
 }
 
-header{
-    border-bottom: solid 2px purple
+header {
+    border-bottom: solid 2px purple;
+    padding: 20px;
+    font-size: 32px;
+    color: white;
+}
+
+section {
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
